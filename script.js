@@ -1,12 +1,12 @@
-let hours = document.getElementById("hours");
-let minutes = document.getElementById("minutes");
-let seconds = document.getElementById("seconds");
+const hours = document.getElementById("hours");
+const minutes = document.getElementById("minutes");
+const seconds = document.getElementById("seconds");
 
 function printTime() {
-  var d = new Date();
-  var h = d.getHours();
-  var m = d.getMinutes();
-  var s = d.getSeconds();
+  let d = new Date();
+  let h = d.getHours();
+  let m = d.getMinutes();
+  let s = d.getSeconds();
 
   //0 before single digit number, 2 ways
   h = h < 10 ? "0" + h : h;
