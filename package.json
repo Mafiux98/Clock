@@ -9,7 +9,7 @@
     },
     "scripts": {
         "test": "jest",
-        "start": "index.html"
+        "start": "node index.html"
     },
     "repository": {
         "type": "git",
