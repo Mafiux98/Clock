@@ -1,0 +1,21 @@
+{
+    "name": "poject1",
+    "version": "1.0.0",
+    "description": "",
+    "main": "script.js",
+    "devDependencies": {},
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Mafiux98/Clock.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Mafiux98/Clock/issues"
+    },
+    "homepage": "https://github.com/Mafiux98/Clock#readme"
+}
