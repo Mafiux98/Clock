@@ -4,6 +4,9 @@
     "description": "",
     "main": "script.js",
     "devDependencies": {},
+    "engines": {
+        "node": "16.x"
+    },
     "scripts": {
         "test": "jest"
     },
