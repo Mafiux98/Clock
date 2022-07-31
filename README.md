@@ -6,4 +6,5 @@ This is the project of digital clock which have basic funcion. Clock is getting 
 * Open index.html in browser
   
 # Test
-* npm run test
+* uruchom npm instal
+* uruchom npm run test
