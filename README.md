@@ -1,6 +1,6 @@
 # Clock
 ### First designed clock with lighbar :D
-![Clock](file:///C:/Users/mafiu/Clock/Clock/Clock.jpg)
+![Clock](https:///C:/Users/mafiu/Clock/Clock/Clock.jpg)
   
 # Running the App 
 * Open index.html in browser
