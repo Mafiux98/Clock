@@ -3,12 +3,14 @@
     "version": "1.0.0",
     "description": "",
     "main": "script.js",
-    "devDependencies": {},
+    "devDependencies": {
+        "jest": "^29.0.1"
+    },
     "engines": {
         "node": "16.x"
     },
     "scripts": {
-        "test": "jest",
+        "test": "jest --watch",
         "start": "node script.js"
     },
     "repository": {
