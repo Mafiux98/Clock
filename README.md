@@ -9,7 +9,7 @@ Screenshot of the Clock
 
 # Demo
 
-[Demo of the Clock](https://firstdigitalclock.netlify.app/ target="_blank")
+[Demo of the Clock](https://firstdigitalclock.netlify.app/target="_blank")
 
 # Run the project
 
